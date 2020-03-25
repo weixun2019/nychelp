@@ -1,8 +1,7 @@
 ---
 title: 新型冠状病毒肺炎，纽约互助小组?
-description: "Helpful resources for people and businesses affected by coronavirus."
 layout: default
-title: Home
+title: 纽约互助小组
 image: "https://coronawhatnow.com/assets/images/facebook.png"
 nav_order: 0
 ---
