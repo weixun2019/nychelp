@@ -1,0 +1,19 @@
+remote_theme: pmarsceill/just-the-docs
+logo: "/assets/images/logo.png"
+og_image: "/assets/images/facebook.png"
+header:
+  og_image: "/assets/images/facebook.png"
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: "/assets/images/facebook.png"
+aux_links:
+  "Home":
+    - "//coronawhatnow.com"
+  "Help Us":
+    - "//www.facebook.com/groups/coronawhatnow"
+  "GitHub":
+    - "//github.com/coronawhatnow/coronawhatnow.com"
+footer_content: "This a free, open, and collaborate directory. Please help us improve it."
+ga_tracking: UA-161488429-1
