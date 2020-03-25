@@ -37,7 +37,7 @@ www.nyhelp.cn
 2.根据您的技能与兴趣加入我们的 Slack 交流群组
 3.找到适合你的项目开始入手
 
-[Please help! Join our Facebook group](https://www.facebook.com/groups/coronawhatnow/){: .btn .btn-green }
+[请帮助我们！加入微信群！](https://www.facebook.com/groups/coronawhatnow/){: .btn .btn-green }
 
 # 声明
 对所有人免费，本项目不需要任何捐赠。所有资源均收集自互联网，所有视频图片资源均不用于商用，仅用作新型冠状病毒的公益宣传，所有资源版权均归资源持有人所有。同时本社区无意侵犯版权所有人的合法权益，如有侵犯您权益的文章或资源，请直接通过邮件或微信公众号联系我们，我们会第一时间屏蔽或删除该资源（24-48小时内）。
