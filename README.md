@@ -6,14 +6,23 @@ www.nyhelp.cn
 祝大家一切都好。
 
 # 我可以获得什么信息？
+
 1.纽约各地区疫情实时情况查询
+
 2.附近有哪些病毒检测点查询
+
 3.正规医用口罩查询
+
 4.纽约出发回国的航班信息查询
+
 5.能送货上门的商店查询
 
 # 通过所在地区找到离的最近的华人邻居
+
 远水救不了近火，当疫情爆发时，附近的留学生就是你的亲人
+
+[加入邻居微信群！](https://www.facebook.com/groups/coronawhatnow/){: .btn .btn-green }
+
 [曼哈顿](usa/california/bayarea/bayarea.html)
 
 [布鲁克林](usa/washington/seattle/seattle.html)
@@ -31,7 +40,7 @@ www.nyhelp.cn
 如果您希望提供有关医院、物流、酒店、生产、捐赠、义诊等援助信息，请移步项目线上web入口：新型冠状病毒防疫信息平台 https://wh.opensource-service.cn/
 
 ### 提供开发、翻译、新闻等技术支持
-欢迎你加入Wuhan2020开发者的团队👏
+欢迎你加入开发者的团队👏
 
 1.请先移步至快速开始查看基本协作流程、项目列表以及其他指南
 2.根据您的技能与兴趣加入我们的 Slack 交流群组
