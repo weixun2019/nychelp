@@ -26,7 +26,7 @@ nav_order: 0
 
 远水救不了近火，当疫情爆发时，附近的留学生就是你的亲人
 
-[加入邻居微信群！](https://www.facebook.com/groups/coronawhatnow/){: .btn .btn-green }
+[加入邻居微信群！](https://www..com/groups/coronawhatnow/){: .btn .btn-green }
 
 [曼哈顿](usa/california/bayarea/bayarea.html)
 
@@ -38,7 +38,7 @@ nav_order: 0
 
 [罗斯福岛](usa/washington/seattle/seattle.html)
 
-[如果没有你的区域，请帮我们添加](https://www.facebook.com/groups/coronawhatnow/)
+[如果没有你的区域，请帮我们添加](https://www..com/groups/coronawhatnow/)
 
 # 我可以做什么？
 ### 提供资源及信息
@@ -51,7 +51,7 @@ nav_order: 0
 2.根据您的技能与兴趣加入我们的 Slack 交流群组
 3.找到适合你的项目开始入手
 
-[请帮助我们！加入微信群！](https://www.facebook.com/groups/coronawhatnow/){: .btn .btn-green }
+[请帮助我们！加入微信群！](https://www..com/groups/coronawhatnow/){: .btn .btn-green }
 
 # 声明
 对所有人免费，本项目不需要任何捐赠。所有资源均收集自互联网，所有视频图片资源均不用于商用，仅用作新型冠状病毒的公益宣传，所有资源版权均归资源持有人所有。同时本社区无意侵犯版权所有人的合法权益，如有侵犯您权益的文章或资源，请直接通过邮件或微信公众号联系我们，我们会第一时间屏蔽或删除该资源（24-48小时内）。
